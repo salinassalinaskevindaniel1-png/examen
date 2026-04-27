@@ -1,0 +1,18 @@
+
+section {
+    padding: 20px 0;
+}
+
+.card {
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+body{
+    background-color: beige;
+}
+body { font-family: 'Inter', sans-serif; }
+        .carousel-item img { object-fit: cover; height: 500px; }
+        .bg-gradient-dark { background: linear-gradient(45deg, #212529, #343a40); }
